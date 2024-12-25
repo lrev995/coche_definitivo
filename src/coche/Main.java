@@ -2,7 +2,7 @@ package coche;
 
 /**
  *
- * @author Sonia
+ * @author Liudmyla Reva
  */
 public class Main {
     
